@@ -9,7 +9,8 @@ Welcome to my digital portfolio setup for the CSE0001 Digital Literacy course. B
 
 **My Strategy:** I plan to use GitHub as my primary technical portfolio. Over the next four years, I will use it to host my Python scripts, showcase my Artificial Intelligence (AI) and Machine Learning (ML) projects, and learn how to collaborate on open-source software.
 
-![GitHub Profile Setup](profiles/Github.png)
+![Github](https://github.com/user-attachments/assets/fc17a3cd-ae83-4eab-bf7b-54c621c0bdc2)
+
 
 ---
 
@@ -18,7 +19,8 @@ Welcome to my digital portfolio setup for the CSE0001 Digital Literacy course. B
 
 **My Strategy:** I have established my educational background here to build credibility. I plan to use LinkedIn to connect with VIT Bhopal alumni, follow industry leaders in the tech space, and actively search for summer internships as I progress through my B.Tech degree.
 
-![LinkedIn Profile Setup](profiles/Linkedin.png)
+![Linkedin](https://github.com/user-attachments/assets/9e2632f7-ed0b-4bea-9235-955c7fc32f8e)
+
 
 ---
 
@@ -27,4 +29,5 @@ Welcome to my digital portfolio setup for the CSE0001 Digital Literacy course. B
 
 **My Strategy:** As an AI enthusiast, Kaggle will be my main practice ground. I intend to use this platform to access real-world datasets, practice building predictive models, and participate in beginner-friendly machine learning competitions to sharpen my practical skills.
 
-![Kaggle Profile Setup](profiles/Kaggle.png)
+![Kaggle](https://github.com/user-attachments/assets/8989a303-abf4-489f-b8e8-758990ece2fc)
+
